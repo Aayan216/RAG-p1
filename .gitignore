@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables (contains API keys)
+.env
+
+# Generated vector stores (rebuilt by running the app)
+faiss_store/
+data/vector_store/
+
+# Sample data PDFs (too large for repo)
+data/pdf/
+
+# Notebooks (exploration only)
+notebook/
+
+# Lock files
+uv.lock
+
+# Misc
+Python
