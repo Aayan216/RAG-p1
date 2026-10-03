@@ -72,3 +72,10 @@ RAG-p1/
 - **FAISS** - Vector similarity search
 - **Sentence Transformers** - Text embeddings (`all-MiniLM-L6-v2`)
 - **Google Gemini** - LLM for summarization
+
+---
+
+## Author
+
+**Mohammed Aayan**  
+B.Tech — Computer Science & Information Technology
